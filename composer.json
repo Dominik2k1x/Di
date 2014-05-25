@@ -1,6 +1,5 @@
 {
     "name": "dominik2k1x/di",
-    "version": "1.0.0",
     "description": "A Small and flexible PHP Dependency Injection Container (DIC)",
     "license": "GPL v3",
     "homepage": "http://dominik2k1x.0x1k.me/",
@@ -17,10 +16,5 @@
     },
     "autoload": {
     	"classmap": ["Di.php"]
-    },
-	"extra": {
-        "branch-alias": {
-            "dev-master": "1.0.0"
-        }
     }
 }
