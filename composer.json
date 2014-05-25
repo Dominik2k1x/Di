@@ -17,5 +17,10 @@
     },
     "autoload": {
     	"classmap": ["Di.php"]
+    },
+	"extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0"
+        }
     }
 }
